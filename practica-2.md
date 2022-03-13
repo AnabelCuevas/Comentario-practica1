@@ -24,7 +24,7 @@ Además, el presidente de la administración de la región de Volyn, Yuri Poguli
 
 *<a href="https://img.europapress.es/fotoweb/fotonoticia_20220228121855_9999_v22.webp 
 ">Ataques militares en Ucrania a 11 de marzo</a>*
-![Image text](https://github.com/AnabelCuevas/repositorio-anabelcuevas/blob/main/ataques militares.png)
+![Image text](https://github.com/AnabelCuevas/repositorio-anabelcuevas/blob/main/ataques.png)
 
 Para esta práctica me he basado en los siguientes artículos o páginas web:
 
