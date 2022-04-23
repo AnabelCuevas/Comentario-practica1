@@ -22,7 +22,7 @@ Rusia ha confirmado este viernes haber llevado a cabo bombardeos contra las base
 
 Además, el presidente de la administración de la región de Volyn, Yuri Poguliaiko, ha indicado que al menos dos militares han muerto y seis han resultado heridas a causa del bombardeo en Lutsk, según ha informado la agencia ucraniana de noticias UNIAN. Por otro lado, Ucrania ha acusado a Rusia de atacar un hospital psiquiátrico en Izyum.
 
-[Ataques militares en Ucrania a 11 de marzo]( href="https://img.europapress.es/fotoweb/fotonoticia_20220228121855_9999_v22.webp)
+*[Ataques militares en Ucrania a 11 de marzo](https://img.europapress.es/fotoweb/fotonoticia_20220228121855_9999_v22.webp)*
 
 ![Image text](https://github.com/AnabelCuevas/repositorio-anabelcuevas/blob/main/ataques.png)
 
